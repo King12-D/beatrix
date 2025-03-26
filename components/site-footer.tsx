@@ -129,7 +129,7 @@ export function SiteFooter() {
 
         <div className="border-t border-gray-700 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-sm text-gray-400">
-            &copy; {new Date().getFullYear()} Beatrix Military Delivery. All rights reserved.
+            &copy; 1987 Beatrix Military Delivery. All rights reserved.
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <Link href="/privacy" className="text-sm text-gray-400 hover:text-beatrix-accent">
